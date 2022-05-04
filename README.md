@@ -45,4 +45,12 @@ securityswitch input for chuck guard;
 
 automatic reset thermostat input;
 
+## planned Features
+
+optoisolated in/outputs
+PCB Board to be installed in lathe front housing, (replaced the original controller)
+RPM meter with OLED display
+overheat control
+
+
 
