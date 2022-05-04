@@ -31,26 +31,20 @@ TODO: optoisolated in/outputs
 
 ## Features
 
-no changes on Controlerboard or Panelboard needed; 
-
-can be installed in the housing on existing attachments; 
-
-speedcontrol, potentiometer;
-
-start/stop control, switch; 
-
-rotation direction control, button with LED;
-
-securityswitch input for chuck guard;
-
-automatic reset thermostat input;
+- no changes on Controlerboard or Panelboard needed; 
+- can be installed in the housing on existing attachments; 
+- speedcontrol, potentiometer;
+- start/stop control, switch; 
+- rotation direction control, button with LED;
+- securityswitch input for chuck guard;
+- automatic reset thermostat input;
 
 ## planned Features
 
-optoisolated in/outputs
-PCB Board to be installed in lathe front housing, (replaced the original controller)
-RPM meter with OLED display
-overheat control
+-  optoisolated in/outputs
+- PCB Board to be installed in lathe front housing, (replaced the original controller)
+- RPM meter with OLED display
+- overheat control
 
 
 
