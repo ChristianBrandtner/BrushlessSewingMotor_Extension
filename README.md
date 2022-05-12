@@ -7,6 +7,8 @@ contact: christian.brandtner@brandtner.net
 
 ## STATUS
 
+12.05.2022 PCB Version 11.5 with galvanic isolation is in production 
+
 30.04.2022 The goal is to fit the SMC controller board and everything else into the existing lathe front casing.
 
 29.04.2022 optoisolation with separate powersupply is in work.
