@@ -1,0 +1,19 @@
+31.5.2022
+Änderungen an der Platine
+Neue Version 12.1
+Grund:
+SDA/SCL zwischen U6 und U7 vertauscht
+C11 entfällt
+C8,C5 näher an U7 Pins
+R29 hinzu, für Betrieb ohne Displaypanel
+R25,R26,R27,R28,C11,C26 Entprellung für Encoder hinzugefügt
+Footprint für alternativen Sicherungshalter hinzugefügt
+einige falsche Beschriftungen korrigiert
+Kosmetik
+
+30.5.2022
+Platine 11.5 bestückt
+
+
+12.5.2022
+Platine V11.5 in Proktion
