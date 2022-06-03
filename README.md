@@ -6,7 +6,7 @@
 contact: christian.brandtner@brandtner.net
 
 ## STATUS
-03.06.2022 Neue PCB Version 12.2, Fehlerbeseitigung im Layout. Softwarebasis in Arbeit.
+03.06.2022 New PCB Version 12.2, Errors in PCB layout fixed. Basic software in progress.
 
 12.05.2022 PCB Version 11.5 with galvanic isolation is in production 
 
