@@ -1,3 +1,11 @@
+3.6.2022
+Version 12.2
+Änderungen an der Platine
+Grund:
+Fehler im Footprint des Arduino Pro Mini, J3.1 und J3.3 vertauscht
+Signal Direction_SW von ADC7(A7) zu PB3(D11) verlegt ( wg. Arduino Kompatibilität)
+Autorouter Layout verbessert
+
 31.5.2022
 Änderungen an der Platine
 Neue Version 12.1
@@ -16,4 +24,4 @@ Platine 11.5 bestückt
 
 
 12.5.2022
-Platine V11.5 in Proktion
+Platine V11.5 in Produktion

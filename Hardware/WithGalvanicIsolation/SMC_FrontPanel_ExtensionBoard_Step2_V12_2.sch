@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
@@ -22937,9 +22937,9 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <devices>
 <device name="" package="ARDUINO-PRO-MINI">
 <connects>
-<connect gate="G$1" pin="ADC6" pad="J3.1"/>
-<connect gate="G$1" pin="ADC7" pad="J3.2"/>
-<connect gate="G$1" pin="GND.1" pad="J3.3"/>
+<connect gate="G$1" pin="ADC6" pad="J3.2"/>
+<connect gate="G$1" pin="ADC7" pad="J3.3"/>
+<connect gate="G$1" pin="GND.1" pad="J3.1"/>
 <connect gate="G$1" pin="GND.2" pad="J6.2"/>
 <connect gate="G$1" pin="GND.3" pad="J7.9"/>
 <connect gate="G$1" pin="MISO/PB4" pad="J6.10"/>
@@ -25754,7 +25754,7 @@ max speed 4,2V</text>
 <wire x1="116.84" y1="146.05" x2="0" y2="146.05" width="0.1524" layer="97"/>
 <text x="3.81" y="160.02" size="5.08" layer="97">Highvoltage Area</text>
 <text x="24.13" y="66.04" size="5.08" layer="97">Highvoltage Area</text>
-<text x="254" y="6.35" size="3.81" layer="97">12.1</text>
+<text x="254" y="6.35" size="3.81" layer="97">12.2</text>
 <text x="236.22" y="118.11" size="2.1844" layer="97">OLED Display</text>
 <text x="236.22" y="102.87" size="2.1844" layer="97">Rotary Encoder</text>
 <text x="236.22" y="90.17" size="2.1844" layer="97">Temperatur Sensor</text>
@@ -25964,7 +25964,7 @@ Mainboard</text>
 <attribute name="NAME" x="214.63" y="117.348" size="1.524" layer="95"/>
 </instance>
 <instance part="P+5" gate="1" x="204.47" y="123.19" smashed="yes" rot="R90">
-<attribute name="VALUE" x="198.12" y="123.19" size="1.778" layer="96"/>
+<attribute name="VALUE" x="198.12" y="121.92" size="1.778" layer="96"/>
 </instance>
 <instance part="ENC" gate="-1" x="212.09" y="110.49" smashed="yes">
 <attribute name="NAME" x="214.63" y="109.728" size="1.524" layer="95"/>
@@ -26349,26 +26349,26 @@ Mainboard</text>
 <nets>
 <net name="N$15" class="0">
 <segment>
-<pinref part="J2" gate="-1" pin="1"/>
-<wire x1="25.4" y1="15.24" x2="29.21" y2="15.24" width="0.1524" layer="91"/>
-<pinref part="F1" gate="G$1" pin="1"/>
-</segment>
-<segment>
 <pinref part="F2" gate="G$1" pin="1A"/>
 <wire x1="25.4" y1="-8.89" x2="21.59" y2="-8.89" width="0.1524" layer="91"/>
 <label x="21.59" y="-7.62" size="1.016" layer="95"/>
 </segment>
+<segment>
+<pinref part="J2" gate="-1" pin="1"/>
+<pinref part="F1" gate="G$1" pin="1"/>
+<wire x1="25.4" y1="15.24" x2="29.21" y2="15.24" width="0.1524" layer="91"/>
+</segment>
 </net>
 <net name="N$21" class="0">
-<segment>
-<pinref part="SV1" gate="G$1" pin="AC/N"/>
-<wire x1="39.37" y1="15.24" x2="105.41" y2="15.24" width="0.1524" layer="91"/>
-<pinref part="F1" gate="G$1" pin="2"/>
-</segment>
 <segment>
 <pinref part="F2" gate="G$1" pin="2A"/>
 <wire x1="35.56" y1="-8.89" x2="39.37" y2="-8.89" width="0.1524" layer="91"/>
 <label x="36.83" y="-7.62" size="1.016" layer="95"/>
+</segment>
+<segment>
+<pinref part="F1" gate="G$1" pin="2"/>
+<pinref part="SV1" gate="G$1" pin="AC/N"/>
+<wire x1="39.37" y1="15.24" x2="105.41" y2="15.24" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$22" class="0">
@@ -26668,7 +26668,7 @@ Mainboard</text>
 </segment>
 <segment>
 <pinref part="R9" gate="G$1" pin="2"/>
-<label x="220.98" y="120.65" size="1.016" layer="95" xref="yes"/>
+<label x="226.06" y="120.65" size="1.016" layer="95" xref="yes"/>
 <wire x1="162.56" y1="123.19" x2="160.02" y2="123.19" width="0.1524" layer="91"/>
 <wire x1="160.02" y1="123.19" x2="160.02" y2="120.65" width="0.1524" layer="91"/>
 <wire x1="160.02" y1="120.65" x2="209.55" y2="120.65" width="0.1524" layer="91"/>
@@ -26686,7 +26686,7 @@ Mainboard</text>
 <pinref part="U7" gate="G$1" pin="SDA2"/>
 </segment>
 <segment>
-<label x="220.98" y="118.11" size="1.016" layer="95" xref="yes"/>
+<label x="226.06" y="118.11" size="1.016" layer="95" xref="yes"/>
 <wire x1="157.48" y1="118.11" x2="209.55" y2="118.11" width="0.1524" layer="91"/>
 <pinref part="DISPLAY" gate="-4" pin="S"/>
 <pinref part="R10" gate="G$1" pin="2"/>
@@ -26950,16 +26950,16 @@ Mainboard</text>
 </net>
 <net name="DIRECTION_SW" class="0">
 <segment>
-<pinref part="M1" gate="G$1" pin="ADC7"/>
-<wire x1="86.36" y1="85.09" x2="93.98" y2="85.09" width="0.1524" layer="91"/>
-<label x="93.98" y="85.09" size="1.016" layer="95" xref="yes"/>
-</segment>
-<segment>
 <pinref part="R7" gate="G$1" pin="1"/>
 <pinref part="C1" gate="G$1" pin="2"/>
 <wire x1="186.69" y1="163.83" x2="181.61" y2="163.83" width="0.1524" layer="91"/>
 <junction x="186.69" y="163.83"/>
 <label x="181.61" y="163.83" size="1.016" layer="95" rot="R270" xref="yes"/>
+</segment>
+<segment>
+<pinref part="M1" gate="G$1" pin="MOSI/PB3"/>
+<wire x1="86.36" y1="92.71" x2="91.44" y2="92.71" width="0.1524" layer="91"/>
+<label x="92.71" y="92.71" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="DIRECTION" class="0">
@@ -27176,7 +27176,7 @@ SM controller. Use external cables and
 components with isolation for 230V</text>
 <text x="163.83" y="6.35" size="1.778" layer="97">Christian Brandtner , Paderborn, 05/2022
 Benutzung auf eigene Gefahr und Verantwortung</text>
-<text x="256.54" y="7.62" size="1.778" layer="97">12.1</text>
+<text x="256.54" y="7.62" size="1.778" layer="97">12.2</text>
 <text x="158.75" y="38.1" size="3.81" layer="97">Use at your own risk and responsibility</text>
 </plain>
 <instances>
@@ -27819,7 +27819,7 @@ Benutzung auf eigene Gefahr und Verantwortung</text>
 <approved hash="102,2,125.73,95.25,VCC/2,HVCC,,,,"/>
 <approved hash="102,2,99.06,157.48,VCC/2,HVCC,,,,"/>
 <approved hash="102,2,99.06,127,VCC/2,HVCC,,,,"/>
-<approved hash="102,2,85.09,67.31,VCC/2,HVCC,,,,"/>
+<approved hash="102,2,82.55,67.31,VCC/2,HVCC,,,,"/>
 <approved hash="102,2,20.32,16.51,GNDA,HGND,,,,"/>
 <approved hash="102,2,125.73,87.63,GNDA,HGND,,,,"/>
 <approved hash="102,2,129.54,110.49,GNDA,HGND,,,,"/>
@@ -27833,6 +27833,7 @@ Benutzung auf eigene Gefahr und Verantwortung</text>
 <approved hash="102,2,74.93,12.7,GNDA,HGND,,,,"/>
 <approved hash="102,2,33.02,139.7,GNDA,HGND,,,,"/>
 <approved hash="102,2,33.02,96.52,GNDA,HGND,,,,"/>
+<approved hash="102,2,54.61,57.15,VCC/2,HVCC,,,,"/>
 <approved hash="104,2,24.13,12.7,U1P,GND,HGND,,,"/>
 <approved hash="104,2,24.13,27.94,U1P,VCC,HVCC,,,"/>
 <approved hash="104,2,43.18,12.7,U2P,GND,HGND,,,"/>
@@ -27855,6 +27856,9 @@ Benutzung auf eigene Gefahr und Verantwortung</text>
 <approved hash="113,1,215.657,52.07,SECURSW,,,,,"/>
 <approved hash="113,1,97.1465,50.8,SJ2,,,,,"/>
 <approved hash="113,1,216.01,69.85,DREHZAHL,,,,,"/>
+<approved hash="113,1,30.48,-7.85114,F2,,,,,"/>
+<approved hash="115,1,27.305,15.24,N$15,,,,,"/>
+<approved hash="115,1,72.39,15.24,N$21,,,,,"/>
 </errors>
 </schematic>
 </drawing>
