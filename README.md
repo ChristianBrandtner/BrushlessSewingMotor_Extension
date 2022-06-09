@@ -3,7 +3,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
-contact: christian.brandtner@brandtner.net
+contact: github@brandtner.net
 
 ## STATUS
 03.06.2022 New PCB Version 12.2, Errors in PCB layout fixed. Basic software in progress.
