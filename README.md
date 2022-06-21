@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=qao7Rex1lZU
 
 ## TODO
 
-TODO: optoisolated in/outputs
+TODO: finalize software
 
 ## Features
 
@@ -53,14 +53,18 @@ TODO: optoisolated in/outputs
 - start/stop control, switch; 
 - rotation direction control, button with LED;
 - securityswitch input for chuck guard;
-- automatic reset thermostat input;
+- spindel RPM display (calculated)
+- original SMC displaypanel could be used at same time 
+- high temperture warning;
+- isolated inputs/outputs for galvanic isolation from the mains voltage
 
-## planned Features
+## planned software features
 
--  optoisolated in/outputs
-- PCB Board to be installed in lathe front housing, (replaced the original controller)
-- RPM meter with OLED display
-- overheat control
+rpm calculation with gear reduction
+rampup and down at start/stop
+
+0-10 V input to speed control (future?)
+optocoupler input for spindle speed measurement (future?)
 
 
 
