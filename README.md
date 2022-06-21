@@ -41,6 +41,11 @@ https://www.youtube.com/watch?v=qao7Rex1lZU
 
 ![SMC_Motor](https://user-images.githubusercontent.com/60114001/165738964-6df24e4b-6300-4330-b555-efc8d85aca5b.jpeg)
 
+## PREVIEW
+
+![Display1](https://user-images.githubusercontent.com/60114001/174739679-2919e0c3-9a55-46e0-93a8-f920f557722e.jpg)
+
+
 ## TODO
 
 TODO: finalize software
