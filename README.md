@@ -59,7 +59,7 @@ TODO: finalize software
 - rotation direction control, button with LED;
 - securityswitch input for chuck guard;
 - spindel RPM display (calculated)
-- original SMC displaypanel could be used at same time 
+- original SMC displaypanel can be used at same time 
 - high temperture warning;
 - isolated inputs/outputs for galvanic isolation from the mains voltage
 
