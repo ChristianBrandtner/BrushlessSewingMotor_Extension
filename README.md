@@ -6,6 +6,15 @@
 contact: github@brandtner.net
 
 ## STATUS
+
+20.6.2022
+Version 14.1
+Änderungen an der Platine
+Grund:
+OK2 Anschlüsse vertauscht, optionale Widerstände R6,R30,R31
+JST Stecker J3, Ausrichtung getauscht damit fertig konfektionierte Kabel zum SMC verwendet werden können.
+Schaltung getestet (ohne RPM-Sensor und analog 0-10V Eingang, alles optional)
+
 03.06.2022 New PCB Version 12.2, Errors in PCB layout fixed. Basic software in progress.
 
 12.05.2022 PCB Version 11.5 with galvanic isolation is in production 
