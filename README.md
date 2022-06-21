@@ -43,7 +43,8 @@ https://www.youtube.com/watch?v=qao7Rex1lZU
 
 ## PREVIEW
 
-![Display1](https://user-images.githubusercontent.com/60114001/174739679-2919e0c3-9a55-46e0-93a8-f920f557722e.jpg)
+![Display3](https://user-images.githubusercontent.com/60114001/174744652-ce5d3712-e71a-4233-8b9c-0a11667b0ed3.jpg)
+![Display4](https://user-images.githubusercontent.com/60114001/174744656-8c1be3cf-0af7-4bf9-b2b0-32b9f43f2d71.jpg)
 
 
 ## TODO
