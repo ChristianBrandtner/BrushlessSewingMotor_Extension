@@ -60,11 +60,11 @@ TODO: finalize software
 
 ## planned software features
 
-rpm calculation with gear reduction
-rampup and down at start/stop
+- rpm calculation with gear reduction
+- rampup and down at start/stop
 
-0-10 V input to speed control (future?)
-optocoupler input for spindle speed measurement (future?)
+- 0-10 V input to speed control (future?)
+- optocoupler input for spindle speed measurement (future?)
 
 
 
