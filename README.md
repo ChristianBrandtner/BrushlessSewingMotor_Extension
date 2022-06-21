@@ -16,7 +16,7 @@ OK2 Anschlüsse vertauscht, optionale Widerstände R6,R30,R31
 JST Stecker J3, Ausrichtung getauscht damit fertig konfektionierte Kabel zum SMC verwendet werden können.
 Schaltung getestet (ohne RPM-Sensor und analog 0-10V Eingang, alles optional)
 
-Wesentliche Funktionen der Software fuktionieren:
+Wesentliche Funktionen der Software funktionieren:
 Drehzahlregelung, Richtungsumschaltung, Drehzahlanzeige
 
 03.06.2022 New PCB Version 12.2, Errors in PCB layout fixed. Basic software in progress.
