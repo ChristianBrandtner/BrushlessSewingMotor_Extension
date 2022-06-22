@@ -7,6 +7,14 @@ contact: github@brandtner.net
 
 ## STATUS
 
+22.6.2022
+
+Version 14.2
+Änderungen an der Platine
+Grund:
+JST Stecker J3 Fehler in der Ausrichtung beseitigt
+
+
 20.6.2022
 
 Version 14.1
