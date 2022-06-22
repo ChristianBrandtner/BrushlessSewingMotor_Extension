@@ -10,7 +10,7 @@ contact: github@brandtner.net
 22.6.2022
 
 Version 14.2
--
+
 Änderungen an der Platine
 Grund:
 JST Stecker J3 Fehler in der Ausrichtung beseitigt
@@ -19,6 +19,7 @@ JST Stecker J3 Fehler in der Ausrichtung beseitigt
 20.6.2022
 
 Version 14.1
+
 Änderungen an der Platine
 Grund:
 OK2 Anschlüsse vertauscht, optionale Widerstände R6,R30,R31
