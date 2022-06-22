@@ -5,6 +5,18 @@
 
 contact: github@brandtner.net
 
+
+## INTRODUCTION
+
+This is a extension for a cheap chinese 550/750W brushless servo motor for external control of speed, direction, etc.
+to use in in e.g. Mini Lathe
+
+
+first test with switch and potentiometer:
+https://www.youtube.com/watch?v=qao7Rex1lZU
+
+![SMC_Motor](https://user-images.githubusercontent.com/60114001/165738964-6df24e4b-6300-4330-b555-efc8d85aca5b.jpeg)
+
 ## STATUS
 
 22.6.2022
@@ -39,17 +51,6 @@ Drehzahlregelung, Richtungsumschaltung, Drehzahlanzeige
 
 28.04.2022 under construction and brainstorming.
 
-
-## INTRODUCTION
-
-This is a extension for a cheap chinese 550/750W brushless servo motor for external control of speed, direction, etc.
-to use in in e.g. Mini Lathe
-
-
-first test with switch and potentiometer:
-https://www.youtube.com/watch?v=qao7Rex1lZU
-
-![SMC_Motor](https://user-images.githubusercontent.com/60114001/165738964-6df24e4b-6300-4330-b555-efc8d85aca5b.jpeg)
 
 ## PREVIEW
 
