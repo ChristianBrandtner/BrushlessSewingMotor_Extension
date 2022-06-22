@@ -65,8 +65,8 @@ TODO: finalize software
 
 - no changes on Controlerboard or Panelboard needed; 
 - can be installed in the housing on existing attachments; 
-- speedcontrol, potentiometer;
-- start/stop control, switch; 
+- speedcontrol, rotary encoder;
+- start/stop control,  button with LED; 
 - rotation direction control, button with LED;
 - securityswitch input for chuck guard;
 - spindel RPM display (calculated)
@@ -76,7 +76,7 @@ TODO: finalize software
 
 ## planned software features
 
-- rpm calculation with gear reduction
+- rpm calculation including gear reduction
 - rampup and down at start/stop
 
 - 0-10 V input to speed control (future?)
