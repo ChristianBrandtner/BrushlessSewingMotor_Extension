@@ -73,12 +73,13 @@ TODO: finalize software
 - spindel RPM display (calculated)
 - original SMC displaypanel can be used at same time 
 - high temperture warning;
+- rampup and down at start/stop
 - isolated inputs/outputs for galvanic isolation from the mains voltage
 
 ## planned software features
 
 - rpm calculation including gear reduction
-- rampup and down at start/stop
+
 
 - 0-10 V input to speed control (future?)
 - optocoupler input for spindle speed measurement (future?)
