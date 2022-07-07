@@ -19,6 +19,15 @@ https://www.youtube.com/watch?v=qao7Rex1lZU
 
 ## STATUS
 
+07.07.2022
+Version 14.5
+Änderungen an der Platine
+Grund:
+Einfügen eines optionalen ISP-Steckers.
+Anschluss der RPM Sensors nach PB0 (ICP1) verlegt.
+optinonal weitere Anschlussbuchse für den Pedalanschluss vorgesehen, zum direkten Kabelanschluss des Pedalkabels
+an den originalen Stecker des SMC. Kein zusätzlicher JST Stecker J9 auf dem SMC Board notwendig. 
+
 22.6.2022
 
 Version 14.2
