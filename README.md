@@ -20,7 +20,9 @@ https://www.youtube.com/watch?v=qao7Rex1lZU
 ## STATUS
 
 07.07.2022
+
 Version 14.5
+
 Änderungen an der Platine
 Grund:
 Einfügen eines optionalen ISP-Steckers.
