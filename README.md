@@ -23,9 +23,9 @@ https://www.youtube.com/watch?v=qao7Rex1lZU
 
 Die ursprüngĺiche Planung auf eine Hardwaredrehzahlmessung zu verzichten werde ich nicht mehr weiterverfolgen.
 Die Softwarelösung funktioniert zwar zufriedenstellend, auch unter berücksichtigung des Getriebeschalters und der Untersetzungen von Motor und Getriebe, aber der Atmega ist durch die vielen Einstellungsmenüs am Ende der Kapazität.
-Deshalb wird ist ein Drehzahlsensor an der Spindel erforderlich, damit entfällt die ganze Software für die Drehzahlberechnung und dafür ist Platz um die Schnittgeschwindigkeit für den Werkstückdurchmesser anzuzeigen.
+Deshalb ist ein Drehzahlsensor an der Spindel erforderlich, damit entfällt die ganze Software für die Drehzahlberechnung und es ist Platz um die Schnittgeschwindigkeit für den Werkstückdurchmesser anzuzeigen.
 Das finde ich nützlicher als den Drehzahlsensor einzusparen.
-An der Hardware der Platine ändert sich deshalb nichts, war alles schon vorgesehen.
+An der Hardware der Platine ändert sich nichts, war alles schon vorgesehen.
 
 
 07.07.2022
