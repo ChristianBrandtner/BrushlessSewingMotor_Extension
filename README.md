@@ -19,6 +19,17 @@ https://www.youtube.com/watch?v=qao7Rex1lZU
 
 ## STATUS
 
+05.09.2022
+
+Beim Einbau in das Steuergehäuse habe ich nun festgestellt das es Änderungsbedarf gibt, es ist ziemlich eng und die Anordnung der Anschlüsse passt nicht so wirklich gut.
+![Eingebaut_V1](https://user-images.githubusercontent.com/60114001/188422338-6319277f-3bb1-4920-8500-ef5a7ccae4dd.jpg)
+
+Deshalb wird es eine zweigeteilte Lösung geben, 1. das Iso Ínterface, montiert auf dem SMC Controller, 2. davon getrennt die Steuerungsplatine, dann neu mit einem Ardunino Nano wegen der USB-Schnittstelle für einfache Updates.
+Durch die Trennung ergibt sich auch die Mögichkeit eine andere Steuerung zu verwenden, z.B. Blackpill STM32F411. Der Ardunio ist schon arg an der Grenze des Flashspeichers.
+![Steuerung_geplant](https://user-images.githubusercontent.com/60114001/188422512-2a967d47-297b-4406-8f3c-a5c5030f87ce.jpg)
+![IsoInterface_geplant_v16](https://user-images.githubusercontent.com/60114001/188422517-5289c238-f3bb-43c3-985c-c34c5e609fae.jpg)
+
+
 08.07.2022
 
 Die ursprüngĺiche Planung auf eine Hardwaredrehzahlmessung zu verzichten werde ich nicht mehr weiterverfolgen.
