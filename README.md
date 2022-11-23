@@ -28,6 +28,9 @@ Beim Einbau in das Steuergehäuse habe ich nun festgestellt das es Änderungsbed
 Deshalb wird es eine zweigeteilte Lösung geben, 1. das Iso Ínterface, montiert auf dem SMC Controller, 2. davon getrennt die Steuerungsplatine, dann neu mit einem Ardunino Nano wegen der USB-Schnittstelle für einfache Updates.
 Durch die Trennung ergibt sich auch die Mögichkeit eine andere Steuerung zu verwenden, z.B. Blackpill STM32F411. Der Ardunio ist schon arg an der Grenze des Flashspeichers.
 ![Steuerung_geplant](https://user-images.githubusercontent.com/60114001/188422512-2a967d47-297b-4406-8f3c-a5c5030f87ce.jpg)
+
+Next Version (11/2022):
+
 ![IsoInterface_geplant_v16](https://user-images.githubusercontent.com/60114001/188422517-5289c238-f3bb-43c3-985c-c34c5e609fae.jpg)
 
 
