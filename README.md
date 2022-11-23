@@ -5,6 +5,7 @@
 
 contact: github@brandtner.net
 
+! Project is in progress, ask before you order PCB or other things. !
 
 ## INTRODUCTION
 
