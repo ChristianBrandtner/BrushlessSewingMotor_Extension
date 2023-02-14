@@ -20,8 +20,13 @@ https://www.youtube.com/watch?v=qao7Rex1lZU
 
 ## STATUS
 
+14.2.2023
 
 ![20221109_094954](https://user-images.githubusercontent.com/60114001/218690523-8f5d8bdb-bbb6-4eb8-ab9b-2e0aafa90d3a.jpg)
+
+RPM Sensor
+
+![20221109_094759](https://user-images.githubusercontent.com/60114001/218690800-126212ed-7c39-4500-b9d5-149846461a36.jpg)
 
 
 
