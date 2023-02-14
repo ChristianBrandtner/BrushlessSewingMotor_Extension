@@ -20,6 +20,11 @@ https://www.youtube.com/watch?v=qao7Rex1lZU
 
 ## STATUS
 
+
+![20221109_094954](https://user-images.githubusercontent.com/60114001/218690523-8f5d8bdb-bbb6-4eb8-ab9b-2e0aafa90d3a.jpg)
+
+
+
 05.09.2022
 
 Beim Einbau in das Steuergehäuse habe ich nun festgestellt das es Änderungsbedarf gibt, es ist ziemlich eng und die Anordnung der Anschlüsse passt nicht so wirklich gut.
