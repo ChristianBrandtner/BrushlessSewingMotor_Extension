@@ -115,19 +115,10 @@ TODO: finalize software
 - start/stop control,  button with LED; 
 - rotation direction control, button with LED;
 - securityswitch input for chuck guard;
-- spindel RPM display (calculated)
+- spindel RPM display (calculated and maesured)
 - original SMC displaypanel can be used at same time 
 - high temperture warning;
 - rampup and down at start/stop
 - isolated inputs/outputs for galvanic isolation from the mains voltage
-
-## planned software features
-
-- rpm calculation including gear reduction
-
-
-- 0-10 V input to speed control (future?)
-- optocoupler input for spindle speed measurement (future?)
-
 
 
