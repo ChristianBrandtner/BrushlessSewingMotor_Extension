@@ -20,6 +20,10 @@ https://www.youtube.com/watch?v=qao7Rex1lZU
 
 ## STATUS
 
+21.03.2023
+
+the new ISO interface can optionally be equipped with an interface for speed control with 0-10V (Mach3) or 0-5V (Poti). The direction of rotation can also be changed and the spindle enabled via a Mach3 port or manual switch.
+
 14.2.2023
 
 ![20221109_094954](https://user-images.githubusercontent.com/60114001/218690523-8f5d8bdb-bbb6-4eb8-ab9b-2e0aafa90d3a.jpg)
