@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-08-16T20:18:20Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.67,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "SMC_FrontPanel_ExtensionBoard_V14_5"
+        },
+        "Owner": "  <>",
+        "Size": {
+            "X": 99.305,
+            "Y": 50.095
+        }
+    }
+}
