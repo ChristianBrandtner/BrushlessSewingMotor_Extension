@@ -3,7 +3,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
-contact: github@brandtner.net
+contact: github1@brandtner.net
 
 ## 11/2022  ! Project is in progress, ask before you order PCB or other things. !
 
