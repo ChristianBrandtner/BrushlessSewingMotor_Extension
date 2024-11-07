@@ -20,6 +20,7 @@ https://www.youtube.com/watch?v=qao7Rex1lZU
 
 ## STATUS
 7.11.2024
+
 Ein neues ISO Interface ist in Arbeit aber noch nicht fertiggestellt. 
 Im Moment pausiert die Entwicklung weil zuwenig Bedarf dafür zu erkennen ist.
 
