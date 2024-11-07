@@ -26,6 +26,11 @@ Die Software ermöglicht es jetzt die komplette Steuerung des Motorkontollers zu
 
 Im Moment pausiert die Entwicklung weil zuwenig Bedarf dafür zu erkennen ist.
 
+
+A new ISO interface is in the works but not yet finished. The software now makes it possible to take over complete control of the motor controller, including the settings for the motor parameters in the controller. This means that the control panel of the BLDC motor no longer has to be within reach.
+
+Development is currently on hold because there is not enough demand for it.
+
 14.2.2023
 
 ![20221109_094954](https://user-images.githubusercontent.com/60114001/218690523-8f5d8bdb-bbb6-4eb8-ab9b-2e0aafa90d3a.jpg)
