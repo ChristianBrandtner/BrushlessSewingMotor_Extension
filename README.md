@@ -19,10 +19,9 @@ https://www.youtube.com/watch?v=qao7Rex1lZU
 ![SMC_Motor](https://user-images.githubusercontent.com/60114001/165738964-6df24e4b-6300-4330-b555-efc8d85aca5b.jpeg)
 
 ## STATUS
-
-21.03.2023
-
-the new ISO interface can optionally be equipped with an interface for speed control with 0-10V (Mach3) or 0-5V (Poti). The direction of rotation can also be changed and the spindle enabled via a Mach3 port or manual switch.
+7.11.2024
+Ein neues ISO Interface ist in Arbeit aber noch nicht fertiggestellt. 
+Im Moment pausiert die Entwicklung weil zuwenig Bedarf dafür zu erkennen ist.
 
 14.2.2023
 
