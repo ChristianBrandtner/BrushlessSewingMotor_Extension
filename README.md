@@ -22,6 +22,8 @@ https://www.youtube.com/watch?v=qao7Rex1lZU
 7.11.2024
 
 Ein neues ISO Interface ist in Arbeit aber noch nicht fertiggestellt. 
+Die Software ermöglicht es jetzt die komplette Steuerung des Motorkontollers zu übernehmen, inklusive der Einstellungen für die Motorparameter im Kontroller. Das bedeutet daß das Bedienpanel des BLDC-Motors nicht mehr in Griffweite sein muss.
+
 Im Moment pausiert die Entwicklung weil zuwenig Bedarf dafür zu erkennen ist.
 
 14.2.2023
